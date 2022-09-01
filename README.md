@@ -3,8 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ### About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+sdasd
 
 This is a prototyped application, the user interaction will be via a command line. You can use this application to :
 
