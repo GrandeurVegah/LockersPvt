@@ -4,8 +4,6 @@
 
 ### About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a prototyped application, the user interaction will be via a command line. You can use this application to :
 
 - Retrieve all file names in the "main" folder
@@ -21,7 +19,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- ROADMAP -->
 
-## Roadmap
+### Roadmap
 
 - [x] Retrieving the file names in an ascending order
 - [x] Business-level operations:
