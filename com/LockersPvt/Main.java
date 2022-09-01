@@ -9,7 +9,7 @@ public class Main {
 
         MenuOptions.printWelcomeScreen("LockersPvt", "Grandeur Vegah");
 
-        // HandleOptions.handleWelcomeScreenInput();
+        HandleOptions.handleWelcomeScreenInput();
     }
 
 }
