@@ -11,7 +11,7 @@ This is a prototyped application, the user interaction will be via a command lin
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Installing and setting up your app.
 
 1. clone this repository using `git clone `
 2. Open the folder from Eclipse/IntelliJ/VSCode
@@ -26,5 +26,5 @@ _Below is an example of how you can instruct your audience on installing and set
   - [x] Option to add a user specified file to the application
   - [x] Option to delete a user specified file from the application
   - [x] Option to search a user specified file from the application
-  - [ ] Navigation option to close the current execution context and return to the main context
-- [ ] Option to close the application
+  - [x] Navigation option to close the current execution context and return to the main context
+- [x] Option to close the application
